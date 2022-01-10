@@ -1,1 +1,3 @@
 # zoom-university
+
+internal monologue: every time i have a zoom lecture i have to open the class canvas page, navigate to the class, click on the Zoom tab, and then wait for Zoom. then i have to go open the class website from my bookmarks, and then check my email in case i missed an announcement saying class is cancelled or something. but all my classes are the same for a solid three month period, so if chrome just opened everything for me before every class, that'd be great
