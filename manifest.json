@@ -4,8 +4,9 @@
   "version": "1.0",
   "manifest_version": 2,
   "description": "In theory, should automatically open tabs at a certain time of day in your timezone",
+  "permissions": ["management"],
   "browser_action": {
-    "default_popup": "pages/window.html",
+    "default_popup": "window.html",
     "default_icon": "icon.png",
     "default_title": "Tab Scheduler"
   },
